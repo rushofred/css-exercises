@@ -45,6 +45,14 @@ header{
   align-items: center;
 }
 
+.logo {
+  margin-bottom: 20px;
+}
+
+.input {
+  margin-bottom: 20px;
+}
+
 .footerLinks {
   background-color: grey;
   display: flex;
